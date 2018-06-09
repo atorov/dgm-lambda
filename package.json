@@ -1,0 +1,10 @@
+{
+  "name": "dgm-lambda",
+  "version": "0.1.0",
+  "dependencies": {
+    "aws-sdk": "^2.238.1",
+    "eslint": "^4.19.1"
+  },
+  "author": "atorov",
+  "license": "MIT"
+}
